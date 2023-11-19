@@ -14,3 +14,6 @@ Let's GO
 - Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the principles of software development and design.
 
 To be successful in programming, it is essential to have a solid foundation in mathematics, logic, computer science, data structures, algorithms, programming paradigms, software engineering, version control, testing, debugging, documentation, collaboration, communication, time management, problem-solving, critical thinking, creativity, attention to detail, discipline, patience, perseverance, adaptability, resilience, curiosity, passion, humility, dedication, hard work, self-motivation, motivation, commitment, accountability, responsibility, honesty, integrity, ethics, professionalism, etc. These skills and qualities will help you become a successful and valued programmer in any industry.
+
+# 2023-11-19
+- "Today's programming wisdom is to embrace simplicity and readability in your code. Strive to write clean, concise, and well-organized code that is easy to understand and maintain. Remember that code is read more often than it is written, so make it a joy to read for yourself and others who may work on it in the future."

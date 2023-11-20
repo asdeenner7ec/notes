@@ -17,3 +17,6 @@ To be successful in programming, it is essential to have a solid foundation in m
 
 # 2023-11-19
 - "Today's programming wisdom is to embrace simplicity and readability in your code. Strive to write clean, concise, and well-organized code that is easy to understand and maintain. Remember that code is read more often than it is written, so make it a joy to read for yourself and others who may work on it in the future."
+
+# 2023-11-20
+- "Keep it simple, stupid!"

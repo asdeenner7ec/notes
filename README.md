@@ -57,3 +57,6 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 # 2023-11-30
 - "Keep it simple, stupid!"
+
+# 2023-12-01
+- Today's programming wisdom is to prioritize writing clean, readable, and maintainable code over clever or complex code. It's important to remember that code is read far more often than it's written, so it should be easy for others (and your future self) to understand. Additionally, investing time in writing automated tests can save a lot of time and effort in the long run by catching bugs early on and ensuring that changes don't break existing functionality. Finally, continuously learning and staying up-to-date with new technologies and best practices is essential for growth and improvement as a programmer.

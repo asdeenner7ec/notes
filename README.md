@@ -66,3 +66,9 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 # 2023-12-03
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. It's important to remember that code is read far more often than it is written, so strive to make your code easy to understand for others who may need to work with it in the future. Avoid unnecessary complexity and favor clarity over cleverness. Additionally, make sure to test your code thoroughly to catch any bugs or errors before they cause problems in production. By prioritizing simplicity, readability, and maintainability, you can create software that is both effective and efficient.
+
+# 2023-12-04
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Make sure you have a plan in place for your projects, including deadlines and milestones. Planning ahead will also help to avoid last-minute panic and stress. You can use tools like Trello, Asana, or Microsoft Planner to help with project management and organization. 
+ - 来自NLP

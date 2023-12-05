@@ -72,3 +72,9 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 Second, planning ahead is crucial. Make sure you have a plan in place for your projects, including deadlines and milestones. Planning ahead will also help to avoid last-minute panic and stress. You can use tools like Trello, Asana, or Microsoft Planner to help with project management and organization. 
  - 来自NLP
+
+# 2023-12-05
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Using a planning tool like Trello or Asana can help keep you organized and on track. Planning ahead will also help prevent last-minute panic and stress, as you will know exactly what needs to happen and when. 
+ （108个字符）

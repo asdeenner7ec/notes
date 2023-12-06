@@ -78,3 +78,10 @@ Second, planning ahead is crucial. Make sure you have a plan in place for your p
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Using a planning tool like Trello or Asana can help keep you organized and on track. Planning ahead will also help prevent last-minute panic and stress, as you will know exactly what needs to happen and when. 
  （108个字符）
+
+# 2023-12-06
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. Use a task management tool, such as Trello or Asana, to keep track of your priorities and make sure you stay on track. 
+ 2. Plan ahead: Planning is crucial when it comes to programming. You should always have a clear idea of what you want to achieve and how you will go about achieving it. Creating a detailed plan will ensure you have all the necessary information and resources to complete the task. When starting a new project or task, spend some time planning out the steps you need to take and the resources you may need along the way. Then, break down these steps into smaller, manageable tasks and prioritize them accordingly.  
+3. Stay organized: As a programmer, maintaining a clean and organized workspace is vital for success. Organizing and naming your files, folders, libraries, etc. in a logical and consistent manner will make it easier to find and use the code you've written in the past. Additionally, using version control systems, like Git, can help keep your code organized and track changes over time. Maintaining an organized codebase will also make collaboration with others on your team much smoother.

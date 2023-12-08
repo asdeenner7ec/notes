@@ -88,3 +88,10 @@ Second, always plan beforehand. When starting a new project or working on a comp
 
 # 2023-12-07
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. By using version control systems like Git, you can keep track of your code and collaborate with others more effectively. Always write concise, well-documented code, as this will make it easier for others to understand and contribute to your project. Don't be afraid to ask for help or advice from others, because they may have experienced something similar and can offer valuable insights. Finally, always be learning and staying up-to-date with new technologies and programming languages.
+
+# 2023-12-08
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress towards your goals.
+
+Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, so that it is easier to stay focused and make progress. Additionally, create a timeline for each step, allowing you track your progress and adjust your plans as needed. Planning ahead will save you time and frustration later on. 
+ （106字）
+最后，保持组织是关键。使用版本控制系统（如Git）来管理你的代码，并使用注释和文档来确保你和其他开发者能够理解你的意图。定期审查你的编码实践，以确保你遵循最佳实践和保持代码质量。通过保持组织和计划，你将能够更有效地编程，从而提高你的生产力。

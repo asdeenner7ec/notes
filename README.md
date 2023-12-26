@@ -170,3 +170,9 @@ This reminder emphasizes the importance of clarity and simplicity in programming
 
 # 2023-12-25
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex code may demonstrate your technical prowess, but simple and readable code demonstrates your understanding of the problem and respect for future maintainers. Always strive to write code that is easy to read, understand, and modify. Remember, code is read far more often than it is written."
+
+# 2023-12-26
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, as well as learning new programming languages and frameworks.
+
+To be successful in the programming field, you must also have a strong foundation in core computer science concepts, such as data structures, algorithms, and software engineering principles. These concepts will serve as the foundation for your understanding of more advanced topics, allowing you to adapt and apply new techniques with ease. 
+ - 来自NLP

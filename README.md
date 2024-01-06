@@ -224,3 +224,8 @@ This quote emphasizes that over-concern with optimizing code before it's necessa
 
 Secondly, planning ahead is essential. Before beginning a new project or task, take the time to think through the steps involved and create a plan. Knowing what you need to do and when to accomplish it can help prevent last-minute panic and ensure a smoother process. Planning also helps you stay focused and make better decisions along the way. 
  - 来自NLP
+
+# 2024-01-06
+- "Today's programming wisdom is to embrace the principle of 'write readable code that is easy to understand and maintain'. This involves using clear, concise variable names, commenting your code effectively, modularizing your functions, and adhering to established coding standards and best practices. Remember, code is read far more often than it is written. Also, always consider future developers (including your future self) who will interact with your code. Strive for simplicity and elegance in solving complex problems, as it reflects a deep understanding of the underlying concepts." 
+
+Furthermore, keep up-to-date with modern development methodologies such as Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and Agile principles, which can significantly enhance productivity and software quality. Always be ready to learn and adapt to new technologies and frameworks since programming is an ever-evolving field. And never underestimate the importance of debugging and troubleshooting skills; they are just as vital as writing functional code."
